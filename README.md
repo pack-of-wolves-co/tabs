@@ -33,4 +33,6 @@ printsOut('cool')
 - [ ] Get rid of "GNU Assembler" dependency
 - [ ] Get rid of "GNU Linker" dependency
 - [ ] Get rid of "xxdi" dependency
-111111111111111111111111111
+
+
+

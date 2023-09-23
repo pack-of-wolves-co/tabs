@@ -28,7 +28,7 @@ printsOut('cool')
 - [X] Implement comments
 - [ ] Implement C-header parser
 - [ ] Implement calling functions from shared libraries (.so, .obj, .a, ...)
-- [ ] Add 64-bit support
+- [x] Add 64-bit support
 - [ ] Implement type guards in the compiler
 - [ ] Get rid of "GNU Assembler" dependency
 - [ ] Get rid of "GNU Linker" dependency

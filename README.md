@@ -38,3 +38,4 @@ printsOut('cool')
 
 0
 0
+0
